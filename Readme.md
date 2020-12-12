@@ -5,7 +5,6 @@
 
 ## I'm a Student,  Developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators and to become full-stack developer
 - 🥅 2020 Goals: Create more projects
@@ -45,9 +44,6 @@
 <br />
 
 ---
-
-
-### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START 
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
