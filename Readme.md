@@ -1,7 +1,7 @@
 ### Hi there, I'm Thilakmani - aka [thilakmani.tech][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://thilakmani.tech)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Mr_Thilakmani)
+[![Website](https://img.shields.io/badge/Thilakmani-Visit-blue)](https://thilakmani.tech)
+[![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Fstyle%3Dsocial)](https://twitter.com/Mr_Thilakmani)
 
 ## I'm a Student,  Developer!!
 
