@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators and to become full-stack developer
-- 🥅 2020 Goals: Create more projects
+- 🥅 2021 Goals: Create more projects
 - ⚡ Fun fact: I love to play and code.
 
 
