@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Thilakmani-Visit-blue)](https://thilakmani.tech)
 [![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Fstyle%3Dsocial)](https://twitter.com/Mr_Thilakmani)
 
-## I'm a Student,  Developer!!
+## I'm a Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators and to become full-stack developer
