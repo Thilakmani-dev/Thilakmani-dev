@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators and to become full-stack developer
-- 🥅 2021 Goals: Create more projects
+- 🥅 2022 Goals: Learn Web Development concepts in depth
 - ⚡ Fun fact: I love to play and code.
 
 
@@ -54,7 +54,7 @@
 
 -->
 
-[website]: https://thilakmani.tech
+[website]: https://thilakmani.xyz
 [twitter]: https://twitter.com/Mr_Thilakmani
-[instagram]: https://instagram.com/i_am_thilakmani
+[instagram]: https://instagram.com/thilakmani_
 [linkedin]: https://www.linkedin.com/in/thilakmani-b-7b668015a/
