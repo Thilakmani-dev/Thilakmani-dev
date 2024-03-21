@@ -5,9 +5,9 @@
 
 ## I'm a Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators and to become full-stack developer
-- 🥅 2022 Goals: Learn Web Development concepts in depth
+- 🌱 I’m currently learning things which excites me, explore other tech tools
+- 👯 I’m looking to collaborate with other content creators and become a full-stack developer
+- 🥅 2024 Goals: Get into Web 3 and ML & AI
 - ⚡ Fun fact: I love to play and code.
 
 
