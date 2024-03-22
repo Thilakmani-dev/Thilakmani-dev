@@ -1,4 +1,4 @@
-### Hi there, I'm Thilakmani - aka [thilakmani.xyz][website] 👋
+### Hi there, I'm Thilakmani - aka [https://thilakmani.vercel.app][website] 👋
 
 [![Website](https://img.shields.io/badge/Thilakmani-Visit-blue)](https://thilakmani.tech)
 [![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Fstyle%3Dsocial)](https://twitter.com/Mr_Thilakmani)
